@@ -1,1 +1,14 @@
-# future
+# Background jobs processor
+- Cron
+- Fire and forget
+- Delay
+- Recurring
+- Continuations
+- Batches
+- Persistant storage with Redis
+- Admin console
+- Observer
+- Priority
+- Logging
+- Hearthbeat
+- Worker pool
