@@ -12,3 +12,8 @@
 - Logging
 - Hearthbeat
 - Worker pool
+- UI
+
+https://github.com/gocraft/work
+https://github.com/jrallison/go-workers - too old
+https://www.hangfire.io/
